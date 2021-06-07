@@ -1,0 +1,11 @@
+{
+  "name": "beneylu/simplesamlphp-module-cookie",
+  "description": "SimpleSAMLphp module to authenticate via a cookie",
+  "type": "simplesamlphp-module",
+  "require": {
+    "php": ">=7.0",
+    "predis/predis": "~1.0",
+    "simplesamlphp/simplesamlphp": "^1.14",
+    "simplesamlphp/composer-module-installer": "~1.0"
+  }
+}
